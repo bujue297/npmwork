@@ -1,0 +1,22 @@
+{
+  "name": "npmwork",
+  "version": "1.0.0",
+  "description": "第一次作业",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "scripts": {
+  
+  "build": " parcel build index.html"
+},
+
+  "author": "ycl",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}

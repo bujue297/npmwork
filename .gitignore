@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Parcel cache and dist folders
+.parcel-cache/
+dist/
+
+# Operating system files (macOS or Windows specific files)
+.DS_Store
+Thumbs.db
